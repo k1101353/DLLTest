@@ -13,7 +13,7 @@ namespace DLLTest
         static void Main(string[] args)
         {
             int a = 6;
-            int b = 2;
+            int b = 5;
 
             int c = MathMathods.Add(a, b);
             int d = MathMathods.Multiply(b, a);
